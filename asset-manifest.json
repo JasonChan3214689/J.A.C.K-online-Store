@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/J.A.C.K-online-Store/static/css/main.04ed3b9e.css",
-    "main.js": "/J.A.C.K-online-Store/static/js/main.a53a5ce2.js",
+    "main.js": "/J.A.C.K-online-Store/static/js/main.08e86306.js",
     "index.html": "/J.A.C.K-online-Store/index.html",
     "main.04ed3b9e.css.map": "/J.A.C.K-online-Store/static/css/main.04ed3b9e.css.map",
-    "main.a53a5ce2.js.map": "/J.A.C.K-online-Store/static/js/main.a53a5ce2.js.map"
+    "main.08e86306.js.map": "/J.A.C.K-online-Store/static/js/main.08e86306.js.map"
   },
   "entrypoints": [
     "static/css/main.04ed3b9e.css",
-    "static/js/main.a53a5ce2.js"
+    "static/js/main.08e86306.js"
   ]
 }
